@@ -17,7 +17,6 @@ db.connect((err) => {
     console.log('MySql connected');
 }) 
 
-//Mysql@127.0.0.1:3306
 const app = express();
 
 // Create db
