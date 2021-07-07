@@ -1,0 +1,15 @@
+{
+  "name": "nodejsmysqlintergration",
+  "version": "1.0.0",
+  "description": "test to make learn how to get mySql and node js to talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Nelson <jellyheadM@outlook.com> (https://www.npmjs.com/~jellyheadmade)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
